@@ -1,0 +1,73 @@
+.title {
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 40px;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  color: #413c69;
+}
+
+.single-player {
+  text-align: center;
+  color: #6930c3;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 25px;
+  height: 450px;
+  overflow: hidden;
+  box-shadow: 0px 0px 1px #351f39;
+}
+
+.single-player img {
+  margin-bottom: 15px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.more-information {
+  line-height: 20px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.more-information p {
+  margin: 8px 0;
+  font-weight: 500;
+}
+.more-information h5{
+  font-weight: 700;
+}
+.more-information h5 span{
+  font-weight: 500;
+}
+p.info-field {
+  position: relative;
+  padding-left: 23px;
+}
+
+p.info-field .icon {
+  position: absolute;
+  left: 0;
+  top: 3px;
+}
+
+.more-information p span {
+  font-weight: normal;
+}
+
+.more-information h5 {
+  margin-bottom: 15px;
+  font-size: 18px;
+}
+
+button.addButton {
+  border: 1px solid #6930c3;
+  border-radius: 5px;
+  padding: 10px 15px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #6930c3;
+  text-transform: uppercase;
+  background-color: #fff;
+}
